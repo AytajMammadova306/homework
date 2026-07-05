@@ -184,7 +184,8 @@ namespace Lab2
                     "\n5.Keçen telebeleri goster" +
                     "\n6.Kesilen telebeleri goster" +
                     "\n7.Ada gore telebe axtar" +
-                    "\n8.Çixiş\n");
+                    "\n8.Qiymeti deyis"+
+                    "\n0.Çixiş\n");
                 int answer;
                 Console.Write("Choice:");
                 string answerStr = Console.ReadLine();
@@ -236,6 +237,12 @@ namespace Lab2
                         }
                         break;
                     case 8:
+                        ChangeGrade(names, grades);
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("Succesfully Changed!");
+                        Console.ResetColor();
+                        break;
+                    case 0:
                         Console.ForegroundColor= ConsoleColor.Yellow;
                         Console.WriteLine("Have a nice day!");
                         Console.ResetColor();
@@ -249,11 +256,36 @@ namespace Lab2
             } while(true);
 
         }
+        public static void ChangeGrade(string[] names, int[] grades)
+        {
+            int index=0;
+            do
+            {
+                index = SearchStudent(names);
+            } while (index < 0);
+            int grade;
+            do
+            {
+                Console.Write("what would you liek to chnage the grade to:");
+                string gradeStr = Console.ReadLine();
+                Console.Clear();
+                bool result = int.TryParse(gradeStr, out grade);
+                if (!result || (result && grade < 0) || (result && grade > 100))
+                {
+                    Console.WriteLine("wrong entry");
+                    bool again = TryAgain();
+                    if (!again) return;
+                }
+                else break;
+            } while (true);
+            grades[index]=grade;
+        }
         public static int SearchStudent(string[] names)
         {
             Console.Write("Enter name please: ");
             string name=Console.ReadLine();
-            for(int i=0; i<names.Length; i++)
+            Console.Clear();
+            for (int i=0; i<names.Length; i++)
             {
                 if (names[i]==name) return i;
             }
