@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\bin\Debug\net8.0\homework#godknows.exe
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\bin\Debug\net8.0\homework#godknows.deps.json
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\bin\Debug\net8.0\homework#godknows.runtimeconfig.json
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\bin\Debug\net8.0\homework#godknows.dll
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\bin\Debug\net8.0\homework#godknows.pdb
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\homework#godknows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\homework#godknows.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\homework#godknows.AssemblyInfo.cs
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\homework#godknows.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\homework#godknows.sourcelink.json
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\homework#godknows.dll
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\refint\homework#godknows.dll
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\homework#godknows.pdb
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\homework#godknows.genruntimeconfig.cache
+C:\Users\User\Desktop\code2.0\homeworks\homework#godknows\homework#godknows\obj\Debug\net8.0\ref\homework#godknows.dll

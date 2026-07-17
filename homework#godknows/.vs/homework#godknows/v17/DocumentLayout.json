@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\homework#godknows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D9A5BB-8B65-4D80-BE52-753928940CB5}|homework#godknows\\homework#godknows.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\homework#godknows\\homework#godknows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D9A5BB-8B65-4D80-BE52-753928940CB5}|homework#godknows\\homework#godknows.csproj|solutionrelative:homework#godknows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\homework#godknows\\homework#godknows\\Program.cs",
+              "RelativeDocumentMoniker": "homework#godknows\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\homework#godknows\\homework#godknows\\Program.cs",
+              "RelativeToolTip": "homework#godknows\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwN0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:16:41.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
