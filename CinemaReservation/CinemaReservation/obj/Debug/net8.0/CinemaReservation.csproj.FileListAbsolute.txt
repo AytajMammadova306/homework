@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.exe
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.deps.json
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.runtimeconfig.json
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.dll
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.pdb
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.AssemblyInfo.cs
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.sourcelink.json
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.dll
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\refint\CinemaReservation.dll
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.pdb
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.genruntimeconfig.cache
+C:\Users\User\Desktop\code2.0\homeworks\CinemaReservation\CinemaReservation\obj\Debug\net8.0\ref\CinemaReservation.dll
