@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\interfacehomework\\interfacehomework\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF353E9A-FE3B-4470-A327-C8C6E88AD692}|InterfaceHomework\\InterfaceHomework.csproj|solutionrelative:interfacehomework\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Checker.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\Checker.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Checker.cs",
+              "RelativeToolTip": "InterfaceHomework\\Checker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T05:14:30.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pair.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Pair.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\Pair.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Pair.cs",
+              "RelativeToolTip": "InterfaceHomework\\Pair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T05:07:04.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Box.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\Box.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Box.cs",
+              "RelativeToolTip": "InterfaceHomework\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T05:01:14.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Circle.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\Circle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Circle.cs",
+              "RelativeToolTip": "InterfaceHomework\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T04:44:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Rectangle.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Rectangle.cs",
+              "RelativeToolTip": "InterfaceHomework\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T04:42:11.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\IShape.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\IShape.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\IShape.cs",
+              "RelativeToolTip": "InterfaceHomework\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T04:03:44.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CashPayment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\CashPayment.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\CashPayment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\CashPayment.cs",
+              "RelativeToolTip": "InterfaceHomework\\CashPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T04:00:59.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\CreditCardPayment.cs",
+              "RelativeToolTip": "InterfaceHomework\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T03:59:25.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\IPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\IPaymentMethod.cs",
+              "RelativeToolTip": "InterfaceHomework\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T03:57:54.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\Program.cs*",
+              "RelativeToolTip": "InterfaceHomework\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T03:47:45.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmsNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\SmsNotifier.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\SmsNotifier.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\SmsNotifier.cs",
+              "RelativeToolTip": "InterfaceHomework\\SmsNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T03:54:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\EmailNotifier.cs",
+              "RelativeToolTip": "InterfaceHomework\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T03:52:12.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\INotifier.cs",
+              "RelativeDocumentMoniker": "InterfaceHomework\\INotifier.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\InterfaceHomework\\InterfaceHomework\\INotifier.cs",
+              "RelativeToolTip": "InterfaceHomework\\INotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T03:51:33.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

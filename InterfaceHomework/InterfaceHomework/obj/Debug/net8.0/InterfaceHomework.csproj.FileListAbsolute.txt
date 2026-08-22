@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\bin\Debug\net8.0\InterfaceHomework.exe
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\bin\Debug\net8.0\InterfaceHomework.deps.json
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\bin\Debug\net8.0\InterfaceHomework.runtimeconfig.json
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\bin\Debug\net8.0\InterfaceHomework.dll
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\bin\Debug\net8.0\InterfaceHomework.pdb
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\InterfaceHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\InterfaceHomework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\InterfaceHomework.AssemblyInfo.cs
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\InterfaceHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\InterfaceHomework.sourcelink.json
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\InterfaceHomework.dll
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\refint\InterfaceHomework.dll
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\InterfaceHomework.pdb
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\InterfaceHomework.genruntimeconfig.cache
+C:\Users\User\Desktop\code2.0\homeworks\InterfaceHomework\InterfaceHomework\obj\Debug\net8.0\ref\InterfaceHomework.dll
