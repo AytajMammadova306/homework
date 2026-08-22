@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\devicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\devicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\oop task\\oop task\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF8A2C-B9D6-4F40-AE29-3A2E39982ED3}|OOP task\\OOP task.csproj|solutionrelative:oop task\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "OOP task\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\PaymentProcessor.cs",
+              "RelativeToolTip": "OOP task\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:09:38.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\PayPal.cs",
+              "RelativeDocumentMoniker": "OOP task\\PayPal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\PayPal.cs",
+              "RelativeToolTip": "OOP task\\PayPal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:09:01.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Product.cs",
+              "RelativeDocumentMoniker": "OOP task\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Product.cs",
+              "RelativeToolTip": "OOP task\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:10:34.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Program.cs",
+              "RelativeDocumentMoniker": "OOP task\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Program.cs",
+              "RelativeToolTip": "OOP task\\Program.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAawMgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T23:23:29.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Smartphone.cs",
+              "RelativeDocumentMoniker": "OOP task\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Smartphone.cs",
+              "RelativeToolTip": "OOP task\\Smartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:49:10.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SMSNotification.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\SMSNotification.cs",
+              "RelativeDocumentMoniker": "OOP task\\SMSNotification.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\SMSNotification.cs",
+              "RelativeToolTip": "OOP task\\SMSNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:56:04.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Television.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Television.cs",
+              "RelativeDocumentMoniker": "OOP task\\Television.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Television.cs",
+              "RelativeToolTip": "OOP task\\Television.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:49:25.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Vehicle.cs",
+              "RelativeDocumentMoniker": "OOP task\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Vehicle.cs",
+              "RelativeToolTip": "OOP task\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:58:11.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Developer.cs",
+              "RelativeDocumentMoniker": "OOP task\\Developer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Developer.cs",
+              "RelativeToolTip": "OOP task\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:44:22.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "OOP task\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\PaymentMethod.cs",
+              "RelativeToolTip": "OOP task\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:07:05.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Notification.cs",
+              "RelativeDocumentMoniker": "OOP task\\Notification.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Notification.cs",
+              "RelativeToolTip": "OOP task\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:53:11.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "OOP task\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Motorcycle.cs",
+              "RelativeToolTip": "OOP task\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:04:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Manager.cs",
+              "RelativeDocumentMoniker": "OOP task\\Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Manager.cs",
+              "RelativeToolTip": "OOP task\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:45:51.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Laptop.cs",
+              "RelativeDocumentMoniker": "OOP task\\Laptop.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Laptop.cs",
+              "RelativeToolTip": "OOP task\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:48:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Food.cs",
+              "RelativeDocumentMoniker": "OOP task\\Food.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Food.cs",
+              "RelativeToolTip": "OOP task\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:17:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP task\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Employee.cs",
+              "RelativeToolTip": "OOP task\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:41:05.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "OOP task\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\EmailNotification.cs",
+              "RelativeToolTip": "OOP task\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:55:07.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Electronics.cs",
+              "RelativeDocumentMoniker": "OOP task\\Electronics.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Electronics.cs",
+              "RelativeToolTip": "OOP task\\Electronics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:14:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeviceManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\DeviceManager.cs",
+              "RelativeDocumentMoniker": "OOP task\\DeviceManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\DeviceManager.cs",
+              "RelativeToolTip": "OOP task\\DeviceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:51:14.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Device.cs",
+              "RelativeDocumentMoniker": "OOP task\\Device.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Device.cs",
+              "RelativeToolTip": "OOP task\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:48:01.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\CreditCard.cs",
+              "RelativeDocumentMoniker": "OOP task\\CreditCard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\CreditCard.cs",
+              "RelativeToolTip": "OOP task\\CreditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:08:16.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Clothing.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Clothing.cs",
+              "RelativeDocumentMoniker": "OOP task\\Clothing.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Clothing.cs",
+              "RelativeToolTip": "OOP task\\Clothing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:15:43.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Car.cs",
+              "RelativeDocumentMoniker": "OOP task\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\Car.cs",
+              "RelativeToolTip": "OOP task\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:01:37.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\BankAccount.cs",
+              "RelativeDocumentMoniker": "OOP task\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\OOP task\\OOP task\\BankAccount.cs",
+              "RelativeToolTip": "OOP task\\BankAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T23:27:20.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
