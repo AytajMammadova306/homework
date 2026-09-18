@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17FE9E1C-E8D5-439C-B6EA-326C03C5FE22}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\studentmanagement\\studentmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FE9E1C-E8D5-439C-B6EA-326C03C5FE22}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FE9E1C-E8D5-439C-B6EA-326C03C5FE22}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\studentmanagement\\studentmanagement\\modul\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FE9E1C-E8D5-439C-B6EA-326C03C5FE22}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\modul\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FE9E1C-E8D5-439C-B6EA-326C03C5FE22}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FE9E1C-E8D5-439C-B6EA-326C03C5FE22}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FE9E1C-E8D5-439C-B6EA-326C03C5FE22}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\studentmanagement\\studentmanagement\\utilities\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FE9E1C-E8D5-439C-B6EA-326C03C5FE22}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\utilities\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extentions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\StudentManagement\\StudentManagement\\Utilities\\Extentions.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Utilities\\Extentions.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\StudentManagement\\StudentManagement\\Utilities\\Extentions.cs",
+              "RelativeToolTip": "StudentManagement\\Utilities\\Extentions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:05:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\StudentManagement\\StudentManagement\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\StudentManagement\\StudentManagement\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\StudentService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwE4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T09:56:43.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\StudentManagement\\StudentManagement\\Modul\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Modul\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\StudentManagement\\StudentManagement\\Modul\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Modul\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T09:55:03.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T09:53:19.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
