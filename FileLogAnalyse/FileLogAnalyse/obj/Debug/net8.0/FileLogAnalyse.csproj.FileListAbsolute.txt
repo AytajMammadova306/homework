@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\bin\Debug\net8.0\FileLogAnalyse.exe
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\bin\Debug\net8.0\FileLogAnalyse.deps.json
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\bin\Debug\net8.0\FileLogAnalyse.runtimeconfig.json
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\bin\Debug\net8.0\FileLogAnalyse.dll
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\bin\Debug\net8.0\FileLogAnalyse.pdb
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\FileLogAnalyse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\FileLogAnalyse.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\FileLogAnalyse.AssemblyInfo.cs
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\FileLogAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\FileLogAnalyse.sourcelink.json
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\FileLogAnalyse.dll
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\refint\FileLogAnalyse.dll
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\FileLogAnalyse.pdb
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\FileLogAnalyse.genruntimeconfig.cache
+C:\Users\User\Desktop\code2.0\homeworks\FileLogAnalyse\FileLogAnalyse\obj\Debug\net8.0\ref\FileLogAnalyse.dll

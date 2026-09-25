@@ -1,0 +1,5 @@
+LOG REPORT
+Total: 12
+Info: 5
+Error: 4
+Warning: 3

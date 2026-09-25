@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\fileloganalyse\\fileloganalyse\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|solutionrelative:fileloganalyse\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\fileloganalyse\\fileloganalyse\\data\\error.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|solutionrelative:fileloganalyse\\data\\error.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\fileloganalyse\\fileloganalyse\\data\\report.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|solutionrelative:fileloganalyse\\data\\report.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\fileloganalyse\\fileloganalyse\\data\\app-log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|solutionrelative:fileloganalyse\\data\\app-log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\fileloganalyse\\fileloganalyse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|solutionrelative:fileloganalyse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\fileloganalyse\\fileloganalyse\\model\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7778CFDB-E7A7-41BB-AEAF-5B2162DA9AE9}|FileLogAnalyse\\FileLogAnalyse.csproj|solutionrelative:fileloganalyse\\model\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "error.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Data\\error.txt",
+              "RelativeDocumentMoniker": "FileLogAnalyse\\Data\\error.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Data\\error.txt",
+              "RelativeToolTip": "FileLogAnalyse\\Data\\error.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-25T21:41:06.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app-log.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Data\\app-log.txt",
+              "RelativeDocumentMoniker": "FileLogAnalyse\\Data\\app-log.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Data\\app-log.txt",
+              "RelativeToolTip": "FileLogAnalyse\\Data\\app-log.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-25T21:39:39.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "report.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Data\\report.txt",
+              "RelativeDocumentMoniker": "FileLogAnalyse\\Data\\report.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Data\\report.txt",
+              "RelativeToolTip": "FileLogAnalyse\\Data\\report.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-25T21:39:38.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "FileLogAnalyse\\Services\\LogService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Services\\LogService.cs",
+              "RelativeToolTip": "FileLogAnalyse\\Services\\LogService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAuwIMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:56:57.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Model\\Log.cs",
+              "RelativeDocumentMoniker": "FileLogAnalyse\\Model\\Log.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Model\\Log.cs",
+              "RelativeToolTip": "FileLogAnalyse\\Model\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:53:40.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Program.cs",
+              "RelativeDocumentMoniker": "FileLogAnalyse\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\FileLogAnalyse\\FileLogAnalyse\\Program.cs",
+              "RelativeToolTip": "FileLogAnalyse\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:51:55.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

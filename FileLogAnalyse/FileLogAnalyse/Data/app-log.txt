@@ -1,0 +1,12 @@
+﻿2026-09-21 09:10|INFO|Application started
+2026-09-21 09:15|INFO|User logged in
+2026-09-21 09:22|WARNING|Slow database response
+2026-09-21 09:30|ERROR|Payment request failed
+2026-09-21 09:42|INFO|Product list loaded
+2026-09-21 10:05|ERROR|File could not be opened
+2026-09-21 10:17|WARNING|Low disk space
+2026-09-21 10:31|INFO|User logged out
+2026-09-21 11:02|ERROR|Database connection failed
+2026-09-21 11:18|INFO|Application restarted
+2026-09-21 11:26|WARNING|Slow database response
+2026-09-21 11:40|ERROR|Payment request failed
