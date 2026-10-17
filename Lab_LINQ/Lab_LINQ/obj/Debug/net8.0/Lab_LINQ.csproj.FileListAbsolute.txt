@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\bin\Debug\net8.0\Lab_LINQ.exe
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\bin\Debug\net8.0\Lab_LINQ.deps.json
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\bin\Debug\net8.0\Lab_LINQ.runtimeconfig.json
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\bin\Debug\net8.0\Lab_LINQ.dll
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\bin\Debug\net8.0\Lab_LINQ.pdb
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\Lab_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\Lab_LINQ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\Lab_LINQ.AssemblyInfo.cs
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\Lab_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\Lab_LINQ.sourcelink.json
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\Lab_LINQ.dll
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\refint\Lab_LINQ.dll
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\Lab_LINQ.pdb
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\Lab_LINQ.genruntimeconfig.cache
+C:\Users\User\Desktop\code2.0\homeworks\Lab_LINQ\Lab_LINQ\obj\Debug\net8.0\ref\Lab_LINQ.dll
