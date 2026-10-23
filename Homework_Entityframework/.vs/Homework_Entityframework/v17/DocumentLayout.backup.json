@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\homework_entityframework\\homework_entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|solutionrelative:homework_entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\homework_entityframework\\homework_entityframework\\homework_entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|solutionrelative:homework_entityframework\\homework_entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\homework_entityframework\\homework_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|solutionrelative:homework_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\homework_entityframework\\homework_entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|solutionrelative:homework_entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\homework_entityframework\\homework_entityframework\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|solutionrelative:homework_entityframework\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\homework_entityframework\\homework_entityframework\\migrations\\20261023182548_categoryandproductcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|solutionrelative:homework_entityframework\\migrations\\20261023182548_categoryandproductcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\homework_entityframework\\homework_entityframework\\data\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|solutionrelative:homework_entityframework\\data\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\homework_entityframework\\homework_entityframework\\data\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C30F445-EBDE-4879-A687-FEA8645EA7AC}|Homework_Entityframework\\Homework_Entityframework.csproj|solutionrelative:homework_entityframework\\data\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homework_Entityframework",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\Homework_Entityframework.csproj",
+              "RelativeDocumentMoniker": "Homework_Entityframework\\Homework_Entityframework.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\Homework_Entityframework.csproj",
+              "RelativeToolTip": "Homework_Entityframework\\Homework_Entityframework.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-23T18:50:32.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Homework_Entityframework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Homework_Entityframework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T18:35:39.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20261023182548_CategoryAndProductCreated.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\Migrations\\20261023182548_CategoryAndProductCreated.cs",
+              "RelativeDocumentMoniker": "Homework_Entityframework\\Migrations\\20261023182548_CategoryAndProductCreated.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\Migrations\\20261023182548_CategoryAndProductCreated.cs",
+              "RelativeToolTip": "Homework_Entityframework\\Migrations\\20261023182548_CategoryAndProductCreated.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T18:25:48.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\appsettings.json",
+              "RelativeDocumentMoniker": "Homework_Entityframework\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\appsettings.json",
+              "RelativeToolTip": "Homework_Entityframework\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-23T18:02:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\Program.cs",
+              "RelativeDocumentMoniker": "Homework_Entityframework\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\Program.cs",
+              "RelativeToolTip": "Homework_Entityframework\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:42:08.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Homework_Entityframework\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\data\\AppDbContext.cs",
+              "RelativeToolTip": "Homework_Entityframework\\data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:43:54.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\data\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "Homework_Entityframework\\data\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\data\\Entity\\Category.cs",
+              "RelativeToolTip": "Homework_Entityframework\\data\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:49:18.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\data\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Homework_Entityframework\\data\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\Homework_Entityframework\\Homework_Entityframework\\data\\Entity\\Product.cs",
+              "RelativeToolTip": "Homework_Entityframework\\data\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:49:26.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
