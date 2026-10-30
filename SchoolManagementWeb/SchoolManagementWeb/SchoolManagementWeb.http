@@ -1,0 +1,22 @@
+@SchoolManagementWeb_HostAddress = http://localhost:5122
+
+GET {{SchoolManagementWeb_HostAddress}}/classrooms
+Accept: application/json
+
+###
+POST {{SchoolManagementWeb_HostAddress}}/classrooms
+Content-Type: application/json
+
+{
+  "name": "LabClasses"
+}
+GET {{SchoolManagementWeb_HostAddress}}/courses
+Accept: application/json
+
+###
+POST {{SchoolManagementWeb_HostAddress}}/courses
+Content-Type: application/json
+
+{
+  "name": "DSA"
+}

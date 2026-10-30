@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "SchoolManagementWeb.Controllers.ClassroomController",
+    "Method": "GetClassrooms",
+    "RelativePath": "classrooms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementWeb.Controllers.ClassroomController",
+    "Method": "AddClassroom",
+    "RelativePath": "classrooms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "classroom",
+        "Type": "SchoolManagementWeb.Model.Classroom",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementWeb.Controllers.CourseController",
+    "Method": "GetCourses",
+    "RelativePath": "courses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementWeb.Controllers.CourseController",
+    "Method": "AddCourse",
+    "RelativePath": "courses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "SchoolManagementWeb.Model.Course",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementWeb.Controllers.StudentCourseController",
+    "Method": "AddStudentToCourse",
+    "RelativePath": "studentcourses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentCourse",
+        "Type": "SchoolManagementWeb.Model.StudentCourse",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementWeb.Controllers.StudentCourseController",
+    "Method": "GetCoursesOfStudent",
+    "RelativePath": "studentcourses/{studentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementWeb.Controllers.StudentController",
+    "Method": "GetStudents",
+    "RelativePath": "students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementWeb.Controllers.StudentController",
+    "Method": "AddStudent",
+    "RelativePath": "students",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "SchoolManagementWeb.Model.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

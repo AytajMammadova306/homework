@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\schoolmanagementweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\schoolmanagementweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\model\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\model\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\migrations\\20261030205417_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\migrations\\20261030205417_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\model\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\model\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\schoolmanagementweb\\schoolmanagementweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A925DC4B-769F-4F22-BEE4-25977DA8A761}|SchoolManagementWeb\\SchoolManagementWeb.csproj|solutionrelative:schoolmanagementweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentCourseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Controllers\\StudentCourseController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Controllers\\StudentCourseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Controllers\\StudentCourseController.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Controllers\\StudentCourseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T21:07:22.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T21:06:14.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassroomController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Controllers\\ClassroomController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Controllers\\ClassroomController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Controllers\\ClassroomController.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Controllers\\ClassroomController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:56:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolManagementWeb.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\SchoolManagementWeb.http",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\SchoolManagementWeb.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\SchoolManagementWeb.http",
+              "RelativeToolTip": "SchoolManagementWeb\\SchoolManagementWeb.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-30T20:09:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\Student.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:23:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Model\\Course.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\Course.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:24:02.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\Classroom.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Model\\Classroom.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\Classroom.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Model\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:23:54.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Program.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:10:08.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T21:05:26.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20261030205417_initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Migrations\\20261030205417_initial.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Migrations\\20261030205417_initial.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Migrations\\20261030205417_initial.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Migrations\\20261030205417_initial.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:54:17.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Model\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\StudentCourse.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Model\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:24:14.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "SchoolManagementWeb\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwCoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:14:45.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagementWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\SchoolManagementWeb\\SchoolManagementWeb\\appsettings.json",
+              "RelativeToolTip": "SchoolManagementWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T20:12:08.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
