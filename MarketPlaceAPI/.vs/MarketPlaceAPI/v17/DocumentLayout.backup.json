@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\persistance\\repositories\\stores\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\persistance\\repositories\\stores\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\persistance\\repositories\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\persistance\\repositories\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\persistance\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\persistance\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\persistance\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\persistance\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\domain\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\domain\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\marketplaceapi\\marketplaceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{336BE65D-2947-43EB-B0D1-0B7143F40519}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\Repositories\\Stores\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Persistance\\Repositories\\Stores\\IStoreRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\Repositories\\Stores\\IStoreRepository.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Persistance\\Repositories\\Stores\\IStoreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:38:25.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\Repositories\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Persistance\\Repositories\\Users\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\Repositories\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Persistance\\Repositories\\Users\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:37:35.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Persistance\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Persistance\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:35:29.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Persistance\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\Repositories\\Repository.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Persistance\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:35:14.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:29:50.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:28:56.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:28:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\Store.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Domain\\Entities\\Store.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\Store.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Domain\\Entities\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:28:12.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:26:18.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:25:41.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Persistance\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Persistance\\AppDbContext.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Persistance\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T05:02:09.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\Program.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T04:56:58.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\MarketPlaceAPI\\MarketPlaceAPI\\appsettings.json",
+              "RelativeToolTip": "MarketPlaceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-14T04:56:43.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
