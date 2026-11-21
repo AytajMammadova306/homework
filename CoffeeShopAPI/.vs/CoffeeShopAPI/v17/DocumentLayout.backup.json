@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\interfaces\\services\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\interfaces\\services\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\dtos\\orders\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\dtos\\orders\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\dtos\\orders\\createorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\dtos\\orders\\createorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\dtos\\menu\\menuitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\dtos\\menu\\menuitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\persistence\\repositories\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\persistence\\repositories\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\interfaces\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\interfaces\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\domain\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\domain\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|c:\\users\\user\\desktop\\code2.0\\homeworks\\coffeeshopapi\\coffeeshopapi\\application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37924CB4-E1D6-4EAA-8D10-45D2DAF0C7B7}|CoffeeShopAPI\\CoffeeShopAPI.csproj|solutionrelative:coffeeshopapi\\application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T05:38:45.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T05:38:11.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T05:37:21.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\Interfaces\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\Interfaces\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T05:36:32.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\Services\\IMenuService.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\Interfaces\\Services\\IMenuService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\Services\\IMenuService.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\Interfaces\\Services\\IMenuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T05:36:10.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T05:35:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Orders\\OrderResponseDto.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\DTOs\\Orders\\OrderResponseDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Orders\\OrderResponseDto.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\DTOs\\Orders\\OrderResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T05:33:12.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Program.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:20:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateOrderRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Orders\\CreateOrderRequestDto.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\DTOs\\Orders\\CreateOrderRequestDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Orders\\CreateOrderRequestDto.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\DTOs\\Orders\\CreateOrderRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T05:32:41.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuItemResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Menu\\MenuItemResponseDto.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\DTOs\\Menu\\MenuItemResponseDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Menu\\MenuItemResponseDto.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\DTOs\\Menu\\MenuItemResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T04:16:25.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vx4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T04:08:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:37:39.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:23:47.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Repositories\\MenuItemRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Persistence\\Repositories\\MenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Repositories\\MenuItemRepository.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Persistence\\Repositories\\MenuItemRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vxwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T04:08:15.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T04:07:38.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T04:06:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:30:04.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:38:28.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\Interfaces\\IMenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\Interfaces\\IMenuItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:38:08.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:20:58.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:20:39.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:00:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:58:31.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\appsettings.json",
+              "RelativeToolTip": "CoffeeShopAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-21T02:54:13.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:39:24.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Domain\\Entities\\MenuItem.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Domain\\Entities\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Domain\\Entities\\MenuItem.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Domain\\Entities\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:39:08.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:38:50.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:35:44.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:34:35.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShopAPI\\Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code2.0\\homeworks\\CoffeeShopAPI\\CoffeeShopAPI\\Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CoffeeShopAPI\\Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:33:44.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
